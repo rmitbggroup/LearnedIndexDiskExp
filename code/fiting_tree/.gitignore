@@ -1,0 +1,8 @@
+.vscode/
+test
+test.dSYM/
+.DS_Store
+ft_bulk.index
+.idea
+stx-btree-0.9/.idea
+cmake-build-debug/

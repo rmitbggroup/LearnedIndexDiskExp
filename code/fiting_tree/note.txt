@@ -1,0 +1,1 @@
+(1) different types have different settings in pgm_seg.h!
